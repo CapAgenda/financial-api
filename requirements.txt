@@ -1,0 +1,6 @@
+gunicorn
+webob
+psycopg2
+boto3
+datetime
+requests

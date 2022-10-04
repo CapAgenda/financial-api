@@ -1,5 +1,5 @@
 from webob import Request
-from . import jump
+
 
 def application(environ, start_response):
     request = Request(environ)
